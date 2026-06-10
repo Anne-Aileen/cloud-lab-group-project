@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(172, 172, 172);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+h3 {
+    color: blue;
+    font-size: 2rem;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    width: 35%;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+img {
+    position: absolute;
+    display: flex;
+    justify-content: right;
+    width: 600px;
+    height: 400px;
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 670px;
+    margin-top: 150px;
+}
